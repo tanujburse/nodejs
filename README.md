@@ -13,29 +13,29 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/chintan-golakiya/online-exam-portal" alt="contributors" />
+  <a href="https://github.com/tanujburse/online-exam-portal/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/tanujburse/online-exam-portal" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/chintan-golakiya/online-exam-portal" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/tanujburse/online-exam-portal" alt="last update" />
   </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/network/members">
-    <img src="https://img.shields.io/github/forks/chintan-golakiya/online-exam-portal" alt="forks" />
+  <a href="https://github.com/tanujburse/online-exam-portal/network/members">
+    <img src="https://img.shields.io/github/forks/tanujburse/online-exam-portal" alt="forks" />
   </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/stargazers">
-    <img src="https://img.shields.io/github/stars/chintan-golakiya/online-exam-portal" alt="stars" />
+  <a href="https://github.com/tanujburse/online-exam-portal/stargazers">
+    <img src="https://img.shields.io/github/stars/tanujburse/online-exam-portal" alt="stars" />
   </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">
-    <img src="https://img.shields.io/github/issues/chintan-golakiya/online-exam-portal" alt="open issues" />
+  <a href="https://github.com/tanujburse/online-exam-portal/issues/">
+    <img src="https://img.shields.io/github/issues/tanujburse/online-exam-portal" alt="open issues" />
   </a>
 </p>
    
 <h4>
-    <a href="https://chintan-golakiya.github.io/online-exam-portal-frontend/">View Demo</a>
+    <a href="https://tanujburse.github.io/online-exam-portal-frontend/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Report Bug</a>
+    <a href="https://github.com/tanujburse/online-exam-portal/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Request Feature</a>
+    <a href="https://github.com/tanujburse/online-exam-portal/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -209,8 +209,8 @@ Use following paths
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chintan-golakiya/online-exam-portal" />
+<a href="https://github.com/tanujburse/online-exam-portal/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tanujburse/online-exam-portal" />
 </a>
 
 
@@ -230,9 +230,9 @@ Distributed under the no License.
 <!-- Contact -->
 ## :handshake: Contact
 
-Chintan Golakiya - [@_chint4n_](https://twitter.com/_chint4n_) - golakiyachintan24@gmail.com
+Tanuj Burse - [@_chint4n_]((https://x.com/BurseTanuj)) - tanujburse@gmail.com
 
-Project Link: [https://github.com/chintan-golakiya/online-exam-portal](https://github.com/chintan-golakiya/online-exam-portal)
+Project Link: [https://github.com/chintan-golakiya/online-exam-portal]((https://github.com/tanujburse/nodejs.git))
 
 
 <!-- Acknowledgments -->
