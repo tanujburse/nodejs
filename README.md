@@ -134,7 +134,7 @@ This project uses MongoDB as database. please install mongodb server in local en
 Clone the project
 
 ```bash
-  git clone https://github.com/tanujburse/nodejs.git
+  git clone https://github.com/tanujburse/online-exam-portal.git
 ```
 
 Go to the project directory
