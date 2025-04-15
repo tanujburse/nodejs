@@ -232,7 +232,7 @@ Distributed under the no License.
 
 Tanuj Burse - [@BurseTanuj]((https://x.com/BurseTanuj)) - tanujburse@gmail.com
 
-Project Link: [https://github.com/chintan-golakiya/online-exam-portal]((https://github.com/tanujburse/nodejs.git))
+Project Link: [https://github.com/tanujburse/online-exam-portal]((https://github.com/tanujburse/nodejs.git))
 
 
 <!-- Acknowledgments -->
