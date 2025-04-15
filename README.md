@@ -230,7 +230,7 @@ Distributed under the no License.
 <!-- Contact -->
 ## :handshake: Contact
 
-Tanuj Burse - [@_chint4n_]((https://x.com/BurseTanuj)) - tanujburse@gmail.com
+Tanuj Burse - [@BurseTanuj]((https://x.com/BurseTanuj)) - tanujburse@gmail.com
 
 Project Link: [https://github.com/chintan-golakiya/online-exam-portal]((https://github.com/tanujburse/nodejs.git))
 
